@@ -36,9 +36,9 @@ make -C tools/emul clean
 ## Architecture
 
 ### Directory Structure
-- `kernel/` - Modular kernel components (acia, blockdev, fs, shell, stdio, sdc, etc.)
+- `kernel/` - Modular kernel components (acia, blockdev, fs, shell, stdio, sdc, ez80uart, etc.)
 - `apps/` - Userspace applications (zasm assembler, ed editor, lib utilities)
-- `recipes/` - Platform-specific builds (rc2014, sms)
+- `recipes/` - Platform-specific builds (rc2014, sms, agon)
 - `tools/emul/` - Z80 emulators: shell (interactive), zasm (assembler), runbin (test executor)
 - `tools/tests/` - Unit tests and zasm tests
 
