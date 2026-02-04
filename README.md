@@ -30,7 +30,8 @@ tools.
            development tools, but also contains emulated zasm, which is
            necessary to build Collapse OS from a non-Collapse OS machine.
 
-Each folder has a README with more details.
+Each folder has a README with more details. See also `CLAUDE.md` for AI-assisted
+development guidance.
 
 ## Status
 
